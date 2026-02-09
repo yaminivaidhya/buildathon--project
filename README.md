@@ -70,3 +70,7 @@ CareerCompass solves this problem by providing structured and personalized caree
 ├── index.html             # UI Prototype
 
 ├── style.css              # UI Styling
+
+## 🖥️ UI Preview
+
+![UI Preview](ui-preview.png)

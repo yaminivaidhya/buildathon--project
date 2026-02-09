@@ -44,8 +44,8 @@ Generates a personalized learning plan based on missing skills identified during
 ## 🧠 System Architecture
 
 - **Backend:** Python modules implementing core logic  
-- **Frontend:** HTML/CSS UI prototype for interaction demonstration  
-- **Design Focus:** Clean, minimal UI with user-friendly experience  
+- **Frontend:** HTML and CSS based UI prototype  
+- **Design Focus:** Clean, minimal, student-friendly design  
 
 ---
 

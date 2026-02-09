@@ -17,26 +17,26 @@ CareerCompass solves this problem by providing personalized, structured, and ada
 
 ### ✅ Easy Level Features
 
-#### S1 – Career Domain Recommendation
+**S1 – Career Domain Recommendation**  
 Recommends suitable career domains based on student degree and interests using keyword-domain matching.
 
-#### S2 – Preparation Roadmap
+**S2 – Preparation Roadmap**  
 Provides a clear step-by-step preparation checklist with a defined timeline.
 
-#### S3 – Resume Analyzer
+**S3 – Resume Analyzer**  
 Analyzes resume content against role-specific skills and calculates a readiness score.
 
-#### S4 – Company Mapping
+**S4 – Company Mapping**  
 Shows types of companies (Startups, MNCs, Product-based) hiring for the selected domain.
 
-#### S5 – Readiness Benchmarking
+**S5 – Readiness Benchmarking**  
 Classifies student preparation level as Beginner, Intermediate, or Ready for Interview.
 
 ---
 
 ### 🔷 Medium Level Feature
 
-#### Adaptive Learning Engine
+**Adaptive Learning Engine**  
 Generates a personalized learning plan based on missing skills identified during resume analysis.
 
 ---
@@ -52,5 +52,3 @@ Generates a personalized learning plan based on missing skills identified during
 ## 🚀 How to Run the Project
 
 ### Backend (Python)
-```bash
-python main.py

@@ -6,7 +6,8 @@ CareerCompass is an intelligent system designed to help students identify suitab
 
 ## 🚩 Problem Statement
 
-Students often face confusion while choosing a career domain, starting preparation, and evaluating their placement readiness. Lack of structured guidance leads to inefficient preparation and poor decision-making.
+Students often face confusion while choosing a career domain, starting preparation, and evaluating their placement readiness.  
+Lack of structured guidance leads to inefficient preparation and poor decision-making.
 
 CareerCompass solves this problem by providing personalized, structured, and adaptive career guidance.
 
@@ -42,9 +43,9 @@ Generates a personalized learning plan based on missing skills identified during
 
 ## 🧠 System Architecture
 
-- **Backend:** Python modules implementing core logic
-- **Frontend:** HTML/CSS UI prototype for interaction demonstration
-- **Design Focus:** Clean, minimal UI with user-friendly experience
+- **Backend:** Python modules implementing core logic  
+- **Frontend:** HTML/CSS UI prototype for interaction demonstration  
+- **Design Focus:** Clean, minimal UI with user-friendly experience  
 
 ---
 

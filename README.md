@@ -54,6 +54,7 @@ CareerCompass solves this problem by providing structured and personalized caree
 ## 📁 Project Structure
 
 ├── main.py                # Entry point
+
 ├── domain_recommender.py  # S1 – Domain recommendation logic
 ├── roadmap.py             # S2 – Preparation roadmap
 ├── resume_analyzer.py     # S3 – Resume analysis

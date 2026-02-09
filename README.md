@@ -51,3 +51,14 @@ CareerCompass solves this problem by providing structured and personalized caree
 ## 🚀 How to Run
 
 ### Backend
+## 📁 Project Structure
+
+├── main.py                # Entry point
+├── domain_recommender.py  # S1 – Domain recommendation logic
+├── roadmap.py             # S2 – Preparation roadmap
+├── resume_analyzer.py     # S3 – Resume analysis
+├── company_mapper.py      # S4 – Company mapping
+├── readiness_evaluator.py # S5 – Readiness benchmarking
+├── adaptive_learning.py   # Medium – Adaptive learning engine
+├── index.html             # UI Prototype
+├── style.css              # UI Styling

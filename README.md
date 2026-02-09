@@ -6,10 +6,9 @@ CareerCompass is an intelligent system designed to help students identify suitab
 
 ## 🚩 Problem Statement
 
-Students often face confusion while choosing a career domain, starting preparation, and evaluating their placement readiness.  
-Lack of structured guidance leads to inefficient preparation and poor decision-making.
+Students often face confusion while choosing a career domain, starting preparation, and evaluating their placement readiness.
 
-CareerCompass solves this problem by providing personalized, structured, and adaptive career guidance.
+CareerCompass solves this problem by providing structured and personalized career guidance.
 
 ---
 
@@ -17,38 +16,38 @@ CareerCompass solves this problem by providing personalized, structured, and ada
 
 ### ✅ Easy Level Features
 
-**S1 – Career Domain Recommendation**  
-Recommends suitable career domains based on student degree and interests using keyword-domain matching.
+- **S1 – Career Domain Recommendation**  
+  Matches student interests and degree to suitable career domains.
 
-**S2 – Preparation Roadmap**  
-Provides a clear step-by-step preparation checklist with a defined timeline.
+- **S2 – Preparation Roadmap**  
+  Step-by-step preparation checklist with timeline.
 
-**S3 – Resume Analyzer**  
-Analyzes resume content against role-specific skills and calculates a readiness score.
+- **S3 – Resume Analyzer**  
+  Skill matching and resume readiness score.
 
-**S4 – Company Mapping**  
-Shows types of companies (Startups, MNCs, Product-based) hiring for the selected domain.
+- **S4 – Company Mapping**  
+  Shows startups, MNCs, and product companies hiring for the role.
 
-**S5 – Readiness Benchmarking**  
-Classifies student preparation level as Beginner, Intermediate, or Ready for Interview.
+- **S5 – Readiness Benchmarking**  
+  Classifies level as Beginner / Intermediate / Interview Ready.
 
 ---
 
 ### 🔷 Medium Level Feature
 
-**Adaptive Learning Engine**  
-Generates a personalized learning plan based on missing skills identified during resume analysis.
+- **Adaptive Learning Engine**  
+  Personalized learning plan based on missing skills.
 
 ---
 
-## 🧠 System Architecture
+## 🧠 Tech Stack
 
-- **Backend:** Python modules implementing core logic  
-- **Frontend:** HTML and CSS based UI prototype  
-- **Design Focus:** Clean, minimal, student-friendly design  
+- Python
+- HTML
+- CSS
 
 ---
 
-## 🚀 How to Run the Project
+## 🚀 How to Run
 
-### Backend (Python)
+### Backend
